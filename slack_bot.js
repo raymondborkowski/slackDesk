@@ -1,1 +1,263 @@
-eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('3 W(){2P(2.m){g"2L":8=d.1c;i;g"2M":8=d.C;i;g"2V":8=d.1e;i;g"2H":8=d.1f;i;g"2I":8=d.1a;i;g"11":8=d.F;i;g"39":8=d.1h;i;T:8=d.C}}3 1k(){W();U e=L("3m.16"),t=e.1O({1N:"G-1m",1M:"1L",1P:"1Q",x:"1U",1S:"1z",1C:!0});t.1G().1F({1W:1u,b:2.b,7:2.7,c:2.c,V:"1X",1v:2.j,2h:"p",k:[2.k,"2f"],2d:1u,2j:{2m:2.l},2l:{2c:"15",V:"2b",22:2.c,b:2.b,21:2.p,R:"1m-1Y@G.1d"},25:{1n:{1w:"/12/2a/29/"+8,"1x":"1n"},1v:{1w:2.j,"1x":"f"}}},3(e,t){19.13("2i 1K\'t 1A")}),2.j=""}U 2={b:"1D 20 I",l:"28",7:4,k:"1b 2p I",c:"27 26",p:"24.1Z@G.1d",m:"23",j:" "},d={1c:"2k",1e:"2n",C:"2o",F:"2e",1f:"2g",1h:"1E",1a:"1I"},8,q="1y";H.18.x||(19.13("1H: 1J x 15 1R"),H.1T(1));U E=L("./1V/E.16"),17=L("17"),r=E.1B({3F:!0}),3g=r.3f({x:H.18.x}).3e();r.3h("3i","3l,3k,3j,3d,3c",3(e,t){e.12.B.36({f:t.f},3(e,t){2.p=t.f.14.p,2.m=t.f.14.35}),r.P.B.1j(t.f,3(a,s){e.1t(t,3(a,s){s.h("O N A 34 37 J Q?",3(e,t){e.5.v()==q&&t.w(),t.6()},{y:"b"}),s.h("O N A 38 3b?",3(e,t){e.5.v()==q&&t.w(),t.6()},{y:"l"}),s.h("O N A 7 (1-10):",3(e,t){e.5.v()==q&&t.w(),(1g(e.5)>10||1g(e.5)<1||3a(e.5))&&t.M(),("9"===e.5||"10"===e.5)&&t.h(\'K j J 1i 7 R "11" 2q "3n": \',[{D:"C",u:3(e,t){2.j="3A",t.6()}},{D:"F",u:3(e,t){2.j="3z",t.6()}},{"T":!0,u:3(e,t){t.M(),t.6()}}]),t.6()},{y:"7"}),s.h("K Y 3y 3B (3C: 1b 3E I)\\n(Z X, 3D-3x, 3w, 3q/1i 7, 3p 7, 3o, Z X):",3(e,t){e.5.v()==q&&t.w(),t.6()},{y:"k"}),s.h("K Y c 3r 3s/3v 3u 3t 33 32:",3(e,t){e.5.v()==q&&t.w(),t.6()},{y:"c"}),s.2D("2C",3(a){"2B"==a.V?r.P.B.1j(t.f,3(s,o){o||(o={2E:t.f}),2.b=a.z("b"),2.7=a.z("7"),2.l=a.z("l"),2.k=a.z("k"),2.c=a.z("c"),r.P.B.2F(o,3(a,s){e.1t(t,3(t,a){a.h({2G:":S:",2A:"2z",2t:[{2s:2.l+": "+2.b,2r:"#2u",1l:2.m+", 2v J 2y 2x?",5:"2w 2J 2K 2X R: "+2.p+"\\n*2W:* "+2.c+"\\n*2Y:* "+2.k,2Z:["5","1l"]}]},[{D:e.1o.31,u:3(e,t){1k(),t.1p(2.m+", Q 1s 1r 30! 2U! :S:"),t.6()}},{D:e.1o.2T,u:3(e,t){t.1p(2.m+", A Q 1s 1r 2N."),t.6()}},{"T":!0,u:3(e,t){t.M(),t.6()}}])})})}):e.2O(t,"1q 1q! 2S 2R! 2Q. :S:")})})})});',62,228,'||globalObj|function||text|next|priority|customerIDNum|||subject|description|customersID||user|case|ask|break|assign|labels|partnerName|firstName|||email|globalStop|controller|||callback|toUpperCase|stop|token|key|extractResponse|the|users|ray|pattern|Botkit|dorothy|intentmedia|process|Task|this|Please|require|repeat|is|What|storage|ticket|to|dog|default|var|status|findCustomer|Phase|enter|Integration||Dorothy|api|log|profile|in|js|os|env|console|andrew|General|heather|com|angus|tristan|Number|danny|high|get|runDeskAPI|pretext|pub|customer|utterances|say|OK|been|has|startConversation|null|assigned_user|href|class|STOP|P35Vgaj2vwZB2mkt6a8PDx53eazgfYhpdWkhSDw|work|slackbot|retry|Slack|481615758|create|cases|Error|481616699|Specify|didn|yW4LKunEgQEU5EbaIJGt|consumerKey|subdomain|createClient|consumerSecret|sRYTN1EVnTCTZVrFoqlzaaMq2xUuoSlay5jhwAK6|environment|tokenSecret|exit|huVxQFzNUmvWOTsGbddY|lib|external_id|new|support|borkowski|Created|from|body|undefined|raymond|_links|Available|Not|IntentMedia|customers|v2|received|direction|language|481613511|SlackMade|481245084|type|This|custom_fields|465208561|message|partner_name|480468253|480050595|Pie|or|color|title|attachments|7CD197|does|Replies|good|look|Bailey|username|completed|end|on|id|save|icon_emoji|Tristan|Andrew|will|be|Heather|Raymond|cancelled|reply|switch|Woof|aborted|Ticket|no|WOOF|Angus|Description|sent|Label|mrkdwn_in|created|yes|available|if|Subject|first_name|info|of|Partner|Danny|isNaN|Name|ambient|message_received|startRTM|spawn|bot|hears|bailey|mention|direct_mention|direct_message|desk|Ray|internal|low|urgent|and|Asana|links|Drive|Google|faq|launch|one|24844726|24844576|label|Default|post|PIE|debug'.split('|'),0,{}))
+//Globals
+var globalObj = {
+    subject:"Slack Created Task", 
+    partnerName:"xxxxxxx", 
+    priority: 4, 
+    labels: "General Pie Task", 
+    description: "Not Available", 
+    email: "xxxxxxx", 
+    firstName: "undefined",
+    assign: ""
+};
+var customersID = {
+    heather: "xxxxxxx",
+    angus: "xxxxxxx",
+    ray: "xxxxxxx",
+    dorothy: "xxxxxxx",
+    tristan: "xxxxxxx",
+    danny: "xxxxxxx",
+    andrew: "xxxxxxx"
+};
+var customerIDNum;
+var globalStop = 'STOP';
+
+if (!process.env.token) {
+    console.log('Error: Specify token in environment');
+    process.exit(1);
+}
+
+var Botkit = require('./lib/Botkit.js');
+var os = require('os');
+
+var controller = Botkit.slackbot({
+    debug: true
+});
+
+var bot = controller.spawn({
+    token: process.env.token
+}).startRTM();
+
+//Creates Ticker
+controller.hears('bailey', 'direct_message,direct_mention,mention,message_received,ambient', function(bot, message) {
+    bot.api.users.info({user: message.user}, function(err, info){
+        //check if it's the right user using info.user.name or info.user.id
+        globalObj.email = info.user.profile.email;
+        globalObj.firstName = info.user.profile.first_name;
+    });
+
+    controller.storage.users.get(message.user, function(err, user) {
+
+        bot.startConversation(message, function(err, convo) {
+
+            //Find Subject
+            convo.ask('What is the Subject of this ticket?', function(response, convo) {
+                if(response.text.toUpperCase() == globalStop){
+                    convo.stop();
+                }
+                convo.next();
+            }, {'key': 'subject'});
+
+            //Get Partner
+            convo.ask('What is the Partner Name?', function(response, convo){
+                if(response.text.toUpperCase() == globalStop){
+                    convo.stop();
+                }
+                convo.next();
+            }, {'key': 'partnerName'});
+
+            //Get Priority
+            convo.ask('What is the priority (1-10):', function(response, convo){
+                if(response.text.toUpperCase() == globalStop){
+                    convo.stop();
+                }
+                if(Number(response.text) > 10 || Number(response.text) < 1 || isNaN(response.text)){
+                    convo.repeat();
+                }
+                if(response.text === '9' || response.text === '10'){
+                     convo.ask('Please assign this high priority to "Dorothy" or "Ray": ', [
+                        {
+                            pattern: 'ray',
+                            callback: function(response, convo) {
+                                globalObj.assign = "xxxxxxx"
+                                convo.next();
+                            }
+                        },
+                        {
+                            pattern: 'dorothy',
+                            callback: function(response, convo) {
+                                globalObj.assign = "xxxxxxx"
+                                convo.next();
+                            }
+                        },
+                        {
+                            default: true,
+                            callback: function(response, convo) {
+                                convo.repeat();
+                                convo.next();
+                            }
+                        }
+                    ]);
+                }
+                convo.next();
+            }, {'key': 'priority'});
+
+            //Get Labels
+            convo.ask('Please enter one label (Default: General PIE Task)\n(Integration Phase, post-launch, faq, urgent/high priority, low priority, internal, Integration Phase):', function(response, convo){
+                if(response.text.toUpperCase() == globalStop){
+                    convo.stop();
+                }
+                convo.next();
+            }, {'key': 'labels'});
+
+            //Description
+            convo.ask('Please enter description and Asana/Google Drive links if available:', function(response, convo){
+                if(response.text.toUpperCase() == globalStop){
+                    convo.stop();
+                }
+                convo.next();
+            }, {'key': 'description'});
+
+            //Collect Variables to format and pass
+            convo.on('end', function(convo) {
+                if (convo.status == 'completed') {
+                    controller.storage.users.get(message.user, function(err, user) {
+                        if (!user)
+                            user = {id: message.user};
+                        globalObj.subject = convo.extractResponse('subject');
+                        globalObj.priority = convo.extractResponse('priority');
+                        globalObj.partnerName = convo.extractResponse('partnerName');
+                        globalObj.labels = convo.extractResponse('labels');
+                        globalObj.description = convo.extractResponse('description');
+                        controller.storage.users.save(user, function(err, id) {
+                            bot.startConversation(message, function(err, convo) {
+                                convo.ask({'icon_emoji': ':dog:','username': "Bailey", "attachments": [
+                                                {
+                                                    "title": globalObj.partnerName + ': ' +  globalObj.subject,
+                                                    'color': '#7CD197',
+                                                    "pretext":globalObj.firstName + ', does this look good?' ,
+                                                    "text": "Replies will be sent to: " 
+                                                        + globalObj.email + "\n" 
+                                                        + "*Description:* " + globalObj.description
+                                                        + "\n*Label:* " + globalObj.labels,
+                                                    "mrkdwn_in": [
+                                                        "text",
+                                                        "pretext"
+                                                    ]
+                                                }
+                                            ]},[
+                                    {
+                                        pattern: bot.utterances.yes,
+                                        callback: function(response,convo) {
+                                            runDeskAPI();
+                                            convo.say(globalObj.firstName + ', ticket has been created! WOOF! :dog:');
+                                            convo.next();
+                                        }
+                                    },
+                                    {
+                                        pattern: bot.utterances.no,
+                                        callback: function(response, convo) {
+                                            convo.say(globalObj.firstName + ', the ticket has been cancelled.');
+                                            convo.next();
+                                        }
+                                    },
+                                    {
+                                        default: true,
+                                        callback: function(response, convo) {
+                                            convo.repeat();
+                                            convo.next();
+                                        }
+                                    }
+                                ]);
+                            });
+                        });
+                        
+                    });
+                } 
+                else {
+                     bot.reply(message, 'OK OK! Ticket aborted! Woof. :dog:');
+                }
+            });
+
+
+
+        });
+    });
+});
+
+function findCustomer(){
+    switch(globalObj.firstName) {
+        case "Heather":
+            customerIDNum = customersID.heather;
+            break;
+        case "Raymond":
+            customerIDNum = customersID.ray;
+            break;
+        case "Angus":
+            customerIDNum = customersID.angus;
+            break;
+        case "Tristan":
+            customerIDNum = customersID.tristan;
+            break;
+        case "Andrew":
+            customerIDNum = customersID.andrew;
+            break;
+        case "Dorothy":
+            customerIDNum = customersID.dorothy;
+            break;
+        case "Danny":
+            customerIDNum = customersID.danny;
+            break;
+        default:
+            customerIDNum = customersID.ray;
+    }
+}
+
+function runDeskAPI(){
+    findCustomer();
+    var desk = require('desk.js')
+      , client = desk.createClient({
+      subdomain: 'xxxxxxx',
+      // use it with basic auth
+      consumerKey: 'xxxxxxx',
+      consumerSecret: 'xxxxxxx',
+      token: 'xxxxxxx',
+      tokenSecret: 'xxxxxxx',
+      // allow retry
+      retry: true
+    });
+
+    client.cases().create({
+      external_id: null,
+      subject: globalObj.subject,
+      priority: globalObj.priority,
+      description: globalObj.description,
+      status: 'new',
+      assigned_user: globalObj.assign,
+      type: 'email',
+      labels: [globalObj.labels, "SlackMade"],
+      language: null,
+      custom_fields: {partner_name: globalObj.partnerName},
+      message: {
+        direction: 'in',
+        status: 'received',
+        body: globalObj.description,
+        subject: globalObj.subject,
+        from: globalObj.email,
+        to: 'xxxxxxx'
+      },
+      _links: {
+        customer: {
+            href: '/api/v2/customers/' + customerIDNum,
+            'class': 'customer'
+        },
+        assigned_user: {
+            href: globalObj.assign,
+            "class": "user"
+    },
+      }
+    }, function(err, myCase) {
+            console.log(err);
+            // => Message requires to, cc or bcc fields to be set to a non-blank value
+    });
+   globalObj.assign = "";
+}
